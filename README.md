@@ -2,7 +2,7 @@
 
 # Screenshot of the Webpart 
 
-src/webparts/spfxWebPartPropertiesPane/WPOutput
+src/webparts/spfxWpReactCreateComponent/WPOutput
 
 # Description of the webpart
 
