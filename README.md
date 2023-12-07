@@ -10,11 +10,17 @@ Create component in React WP
 Add Properties
 Make it Dynamic to read values from web part property pane.
 We will be using controls such as 
+
 	• Label
+ 
 	• Horizontal Rule
+ 
 	• Button
+ 
 	• Checkbox
+ 
 	• Radio button (Choice group)
+ 
 
 # Environment Setup
 
